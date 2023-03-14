@@ -117,10 +117,32 @@ a {
 .quote {
 }
 
+.signup-section {
+    display: flex;
+    background-color: #3882f6;
+    padding: 40px;
+    margin: 50px;
+    width: 800px;
+    justify-content: center;
+    align-self: center;
+    justify-content: space-between;
+    border-radius: 5px;
+}
 
 
+.signup-info,
+.signup-text {
+    color: white
+}
 
+.button-container {
+    
+}
 
+.sign-up-two {
+    background-color: #3882f6;
+    color: white
+}
 
 
 
